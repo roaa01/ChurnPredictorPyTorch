@@ -1,5 +1,4 @@
 # ChurnPredictorPyTorch
-Churn Prediction Notebook README
 Overview
 This notebook, bytorch.ipynb, implements a neural network using PyTorch to predict customer churn based on the "Churn_Modelling.csv" dataset. The goal is to classify whether a customer will exit (1) or stay (0) based on features like credit score, age, balance, and more. The notebook includes data loading, preprocessing, model definition, training, and evaluation.
 Dataset
